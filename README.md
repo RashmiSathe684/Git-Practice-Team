@@ -1,1 +1,1 @@
-# Git-Practice-Team Rashmi
+# Git-Practice-Team Pratham and Rashmi
